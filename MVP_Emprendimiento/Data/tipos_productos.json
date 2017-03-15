@@ -1,0 +1,20 @@
+﻿{
+  "Productos": [
+    {
+      "Nombre": "Credito Hipotecario",
+      "Notas": "No existe diferencia de valor entre los plazos."
+    },
+    {
+      "Nombre": "Libranza",
+      "Notas": "La menor taza del mercado"
+    },
+    {
+      "Nombre": "Corriente",
+      "Notas": "Maneje su cuenta con tranquilidad"
+    },
+    {
+      "Nombre": "Tarjeta de credito",
+      "Notas": "Maneje su cuenta con tranquilidad"
+    }
+  ]
+}
