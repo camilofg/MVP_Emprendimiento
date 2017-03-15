@@ -1,0 +1,133 @@
+﻿{
+  "Entidades": [
+    {
+      "Nombre": "AVVillas",
+      "Productos": [
+        {
+          "Nombre": "Credito Hipotecario",
+          "Notas": "No existe diferencia de valor entre los plazos.",
+          "Detalles": [
+            {
+              "Tipo": "PESOS LTV ≤ 65% ",
+              "Porcentaje": "13,75% E.A"
+            },
+            {
+              "Tipo": "PESOS LTV > 65%",
+              "Porcentaje": "14,20% E.A"
+            },
+            {
+              "Tipo": "UVR NO VIS",
+              "Porcentaje": "UVR + 12,40%"
+            },
+            {
+              "Plazo": "UVR VIS",
+              "Porcentaje": "UVR + 10,70%"
+            }
+          ]
+        },
+        {
+          "Nombre": "Libranza",
+          "Notas": "No existe diferencia entre los valores solicitados, solo entre los pasos",
+          "Detalles": [
+            {
+              "Plazo": "0.5 - 5 años",
+              "Porcentaje": "20,05% E.A"
+            },
+            {
+              "Plazo": "6 - 8 años",
+              "Porcentaje": "21,25% E.A"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Nombre": "Davivienda",
+      "Productos": [
+        {
+          "Nombre": "Libranza",
+          "Notas": "",
+          "Detalles": [
+            {
+              "Tipo": "Corriente",
+              "Porcentaje": "20,56% E.A."
+            },
+            {
+              "Tipo": "Mora",
+              "Porcentaje": "33,39% E.A."
+            }
+          ]
+        },
+        {
+          "Nombre": "Credito Hipotecario",
+          "Notas": "No existe diferencia de valor entre los plazos.",
+          "Detalles": [
+            {
+              "Tipo": "UVR NO VIS",
+              "Porcentaje": "14,73% E.A."
+            },
+            {
+              "Plazo": "UVR VIS",
+              "Porcentaje": "15,05% E.A."
+            }
+          ]
+        },
+        {
+          "Nombre": "Tarjeta de credito",
+          "Notas": "",
+          "Detalles": [
+            {
+              "Compras": "33,51% E.A.",
+              "Avances": "33,51% E.A.",
+              "Modficicacion de plazos": "33,51% E.A."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Nombre": "BBVBA",
+      "Productos": [
+        {
+          "Nombre": "Libranza",
+          "Notas": "",
+          "Detalles": [
+            {
+              "Tipo": "Corriente",
+              "Porcentaje": "21,56% E.A."
+            },
+            {
+              "Tipo": "Mora",
+              "Porcentaje": "34,39% E.A."
+            }
+          ]
+        },
+        {
+          "Nombre": "Credito Hipotecario",
+          "Notas": "No existe diferencia de valor entre los plazos.",
+          "Detalles": [
+            {
+              "Tipo": "UVR NO VIS",
+              "Porcentaje": "14,73% E.A."
+            },
+            {
+              "Plazo": "UVR VIS",
+              "Porcentaje": "15,05% E.A."
+            }
+          ]
+        },
+        {
+          "Nombre": "Tarjeta de credito",
+          "Notas": "",
+          "Detalles": [
+            {
+              "Compras": "33,51% E.A.",
+              "Avances": "33,51% E.A.",
+              "Modficicacion de plazos": "33,51% E.A."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
